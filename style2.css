@@ -95,6 +95,7 @@ article{
 }
 article p, article h1{
     margin-top: 20px;
+    text-align: justify;
 }
 
 article:hover{
@@ -102,6 +103,8 @@ article:hover{
     color: #000;
     margin-top: 100px;
     background-color: rgba(56, 56, 2, 0.25);
+    text-align: justify;
+    width: 250px;
 }
 article i.fas{
     font-size: 100px;
